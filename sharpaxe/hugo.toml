@@ -1,0 +1,4 @@
+baseURL = 'https://sharpaxe.org/'
+languageCode = 'en-us'
+title = 'Sharp axe'
+theme = 'ananke'
